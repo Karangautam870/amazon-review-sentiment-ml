@@ -307,7 +307,6 @@ Dataset Size:      300,000
 Features:          4,500
 Notebooks:         3 files (82+ cells)
 Code Files:        2 Python + 1 Pickle
-Status:            ✅ Production-Ready
 ```
 
 **Built as a comprehensive ML portfolio project**  
@@ -318,6 +317,5 @@ Status:            ✅ Production-Ready
 **Author**: Karan Gautam  
 **Date**: February 2026  
 **Dataset**: Amazon Electronics Reviews  
-**Status**: ✅ Production-Ready
 
 </div>
