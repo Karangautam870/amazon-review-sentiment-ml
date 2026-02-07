@@ -3,6 +3,8 @@
 
 > A **production-ready sentiment classification system** analyzing 300K+ Amazon Electronics reviews, achieving **88.03% accuracy** with advanced NLP and machine learning techniques. Built from scratch demonstrating full ML lifecycle expertise.
 
+> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://amazon-review-sentiment-ml-karangautam870.streamlit.app/])
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-orange.svg)](https://scikit-learn.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io)
