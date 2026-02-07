@@ -1,8 +1,15 @@
 # Data files
 *.csv
 *.json
-*.md
-*.txt
+
+# Documentation (keep README tracked)
+DATASET_STRATEGY.md
+INTERVIEW_GUIDE.md
+PROJECT_COMPLETION.md
+QUICK_REFERENCE.md
+README_PROJECT.md
+RECRUITER_ANALYSIS.md
+project_summary.txt
 
 # Python cache
 __pycache__/
