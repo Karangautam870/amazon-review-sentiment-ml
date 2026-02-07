@@ -258,32 +258,6 @@ class SentimentPipeline:
 
 ---
 
-## 🌟 Why This Stands Out
-
-### For Recruiters
-✅ Complete ML lifecycle (end-to-end)  
-✅ Production code (not just notebooks)  
-✅ Rigorous evaluation (3 models, multiple metrics)  
-✅ Advanced NLP techniques  
-✅ Clean, documented code  
-✅ Real-world scale (300K reviews)  
-✅ Transparent metrics  
-
-### For Interviews
-- Why Logistic Regression over Naive Bayes?
-- How does negation handling work?
-- How to handle class imbalance?
-- What evaluation metrics matter?
-- How to deploy in production?
-
-### For Learning
-- See complete ML workflow
-- Study advanced NLP
-- Review best practices
-- Learn production patterns
-
----
-
 ## 📝 How to Use
 
 ### To Learn:
@@ -301,12 +275,11 @@ pipeline = joblib.load('sentiment_pipeline.pkl')
 prediction = pipeline.predict("Great product  !")
 ```
 
-### To Extend:
-- Try BERT/DistilBERT
-- Implement cross-validation
-- Add REST API
-- Deploy to cloud
+## Future Enhancements:
 
+* Upgrade to Transformer models (BERT) for state-of-the-art accuracy.
+
+* Deploy as a REST API (FastAPI) with Docker containerization for scalable cloud hosting.
 ---
 
 ## ✨ Project Status
