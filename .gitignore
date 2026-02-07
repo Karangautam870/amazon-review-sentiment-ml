@@ -1,0 +1,30 @@
+# Data files
+*.csv
+*.json
+*.md
+*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+venv/
+env/
+.env
+
+# Notebooks
+model_building.ipynb
