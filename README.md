@@ -317,5 +317,6 @@ Code Files:        2 Python + 1 Pickle
 **Author**: Karan Gautam  
 **Date**: February 2026  
 **Dataset**: Amazon Electronics Reviews  
+**Dataset link**: https://mcauleylab.ucsd.edu/public_datasets/data/amazon_v2/categoryFiles/Electronics.json.gz
 
 </div>
